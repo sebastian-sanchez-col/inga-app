@@ -1,0 +1,86 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "comingSoon.message" : {
+      "comment" : "Placeholder message for unavailable sections",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "We're working on this section. It will be available very soon." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Estamos trabajando en esta sección. Muy pronto estará disponible." } }
+      }
+    },
+    "comingSoon.title" : {
+      "comment" : "Placeholder title for unavailable sections",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Coming soon" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Próximamente" } }
+      }
+    },
+    "feature.bulletins.summary" : {
+      "comment" : "Bulletins feature description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Read official announcements and important notices." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Consulta comunicados oficiales y avisos importantes." } }
+      }
+    },
+    "feature.bulletins.title" : {
+      "comment" : "Bulletins feature title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Bulletins" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Boletines" } }
+      }
+    },
+    "feature.chat.summary" : {
+      "comment" : "Chat feature description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Talk in real time with other members." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Conversa en tiempo real con otros miembros." } }
+      }
+    },
+    "feature.chat.title" : {
+      "comment" : "Chat feature title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Chat" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Chat" } }
+      }
+    },
+    "feature.news.summary" : {
+      "comment" : "News feature description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Catch up on community updates and events." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Entérate de las novedades y eventos de la comunidad." } }
+      }
+    },
+    "feature.news.title" : {
+      "comment" : "News feature title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "News" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Noticias" } }
+      }
+    },
+    "home.subtitle" : {
+      "comment" : "Home screen subtitle",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Stay up to date and connected with the members of your community." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Mantente al día y conectado con los miembros de tu comunidad." } }
+      }
+    },
+    "home.title" : {
+      "comment" : "Home screen title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Home" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Inicio" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
