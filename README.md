@@ -24,6 +24,22 @@ Mientras un módulo no esté implementado, al pulsar su tarjeta se muestra una p
 - **Idiomas:** español e inglés (String Catalog).
 - **Soporte para idiomas de derecha a izquierda** en los iconos de navegación.
 
+## Demo
+
+### Home
+
+Pantalla de inicio con las tres funcionalidades de comunicación. Cada una tiene su icono, su color y una breve descripción.
+
+<img src="demo/dashboard.jpg" alt="Pantalla Home con las tarjetas de Chat, Boletines y Noticias" width="280">
+
+### Boletines
+
+Al pulsar una tarjeta cuyo módulo aún no está disponible se abre un estado vacío informativo.
+
+<img src="demo/bulletins.jpg" alt="Pantalla de Boletines con el estado Próximamente" width="280">
+
+> Las capturas muestran la app en inglés y en modo claro. Con el dispositivo en español, los textos aparecen traducidos automáticamente.
+
 ## Requisitos
 
 | | Versión |
